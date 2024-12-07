@@ -1,0 +1,54 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: rgb(143, 186, 250);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.container-white {
+	background-color: white;
+	border-radius: 10px;
+	padding: 20px;
+	margin: 15px;
+}
+
+
+.logo-con-margen {
+    margin-left: 20px;
+}
+
+.container-wmenu {
+	background-color: white;
+	border-radius: 10px;
+	padding: 20px;
+	margin: 15px;
+}
+
+.userNotFound {
+	color: red;
+}
+
+table {
+	text-align: center;
+}
+
+
+.footer {
+	background-color: white;
+	border-radius: 10px;
+	padding: 20px;
+	margin: 15px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.logoLegion {
+	width: 100px;
+}
+
+.logoCharlie {
+	width: 70px;
+}

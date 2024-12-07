@@ -1,0 +1,11 @@
+15:41:30.221 [main] INFO  org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean buildSessionFactory - Building new Hibernate SessionFactory
+15:41:31.468 [main] INFO  entities.User saveUser - User Inserted
+15:41:31.473 [main] INFO  entities.User saveUser - User Inserted
+15:41:31.479 [main] INFO  entities.User saveUser - User Inserted
+15:41:31.483 [main] INFO  entities.User saveUser - User Inserted
+15:41:31.488 [main] INFO  entities.User saveUser - User Inserted
+15:41:31.493 [main] INFO  entities.User saveUser - User Inserted
+15:41:31.497 [main] INFO  entities.User saveUser - User Inserted
+15:41:31.502 [main] INFO  entities.User saveUser - User Inserted
+15:41:31.506 [main] INFO  entities.User saveUser - User Inserted
+15:41:31.507 [main] INFO  entities.User saveUserList - Users Inserteds

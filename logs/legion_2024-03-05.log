@@ -1,0 +1,10 @@
+19:45:00.414 [main] INFO  org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean buildSessionFactory - Building new Hibernate SessionFactory
+19:45:01.242 [main] INFO  entities.User saveUser - User Inserted
+19:45:01.246 [main] INFO  entities.User saveUser - User Inserted
+19:45:01.246 [main] INFO  entities.User getUserDni - Searching User by Dni: 123.
+19:45:01.319 [main] INFO  entities.User getUserId - Searching User by Id: 2.
+19:45:01.329 [main] INFO  entities.User getUserList - Getting all Users.
+19:45:01.330 [main] INFO  entities.User getUserId - Searching User by Id: 1.
+19:45:01.333 [main] INFO  entities.User deleteUser - User User [id=1, name=Juan, lastName=null, dni=123, password=root, role=null, mail=null, phone=null, gender=null, birth=null]deleted.
+19:45:01.341 [main] INFO  entities.User updateUser - Updating User.
+19:45:01.355 [main] INFO  entities.User getUserList - Getting all Users.
